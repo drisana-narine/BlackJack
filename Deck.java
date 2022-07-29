@@ -27,7 +27,7 @@ public class Deck {
         cards.add("9 of Hearts");
         cards.add("10 of Hearts");
         cards.add("Jack of Hearts");
-        cards.add("Queens of Hearts");
+        cards.add("Queen of Hearts");
         cards.add("King of Hearts");
         cards.add("Ace of Hearts");
     }
@@ -44,7 +44,7 @@ public class Deck {
         cards.add("9 of Spades");
         cards.add("10 of Spades");
         cards.add("Jack of Spades");
-        cards.add("Queens of Spades");
+        cards.add("Queen of Spades");
         cards.add("King of Spades");
         cards.add("Ace of Spades");
     }
@@ -61,7 +61,7 @@ public class Deck {
         cards.add("9 of Diamonds");
         cards.add("10 of Diamonds");
         cards.add("Jack of Diamonds");
-        cards.add("Queens of Diamonds");
+        cards.add("Queen of Diamonds");
         cards.add("King of Diamonds");
         cards.add("Ace of Diamonds");
     }
@@ -78,7 +78,7 @@ public class Deck {
         cards.add("9 of Clubs");
         cards.add("10 of Clubs");
         cards.add("Jack of Clubs");
-        cards.add("Queens of Clubs");
+        cards.add("Queen of Clubs");
         cards.add("King of Clubs");
         cards.add("Ace of Clubs");
     }
